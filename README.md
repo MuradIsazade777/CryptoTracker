@@ -47,6 +47,9 @@ CryptoTracker/
 
 🖼️ Screenshot
 
+![CryptoTracker UI](screenshot/result.png)
+
+
 ⚙️ Installation
 ```bash
 git clone https://github.com/yourusername/CryptoTracker.git
