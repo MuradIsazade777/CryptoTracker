@@ -1,4 +1,4 @@
-# CryptoTracker 🔐
+# CryptoTracker 🔐 
 
 CryptoTracker is a modular, GUI-based Python application for secure encryption, password generation, and wallet management. Built with PyQt5 and Cryptography, it offers a sleek dark/light themed interface, particles animation, and tabbed navigation — designed for developers, crypto users, and security-conscious professionals.
 
